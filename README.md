@@ -3,6 +3,7 @@ Pharmacy System coded with Java swing/awt goees
 I've use JDBC to connecting to database
 ![ERD](https://github.com/WAHID-QANDIL/Pharmacy-management-system/assets/103429590/4374485c-51ff-4dc1-95fe-20f61af8148b)
 <br></br>
+<hr>
 ![image](https://github.com/WAHID-QANDIL/Pharmacy-management-system/assets/103429590/225285ca-b188-4d71-86f7-7950708fb8d4)
 ![image](https://github.com/WAHID-QANDIL/Pharmacy-management-system/assets/103429590/db0f984e-5eb9-4d3f-95f7-eea905a02e2c)
 ![image](https://github.com/WAHID-QANDIL/Pharmacy-management-system/assets/103429590/012e2c5f-9566-4595-a23d-e74358968432)
